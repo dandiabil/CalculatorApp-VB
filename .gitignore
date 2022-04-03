@@ -1,2 +1,4 @@
-vb_calc/obj/
-vb_calc/bin/
+KalkulatorApp/obj/
+KalkulatorApp/bin/
+
+*.suo
